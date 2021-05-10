@@ -50,7 +50,7 @@ I worked on fixing common website bugs such as responsive fixes, adding new func
 
 ## 🗣 Languages
 
-### Spanish 🇪🇸🇦🇷
+### Spanish 🇪🇸-🇦🇷
 
 Native speaker
 
@@ -71,8 +71,6 @@ Universidad Tecnológica Nacional | Mendoza, Argentina
 # ☎️ Contact information
 
 ✉️ [facundoaraujo14@gmail.com](mailto:facundoaraujo14@gmail.com)
-
-📞 (+54) 261 2532654
 
 🔗 [linkedin.com/in/facundonaraujo](http://linkedin.com/in/facundonaraujo)
 
