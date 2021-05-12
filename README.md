@@ -64,9 +64,16 @@ intermediate
 
 ## Ingeniería en Sistemas de Información
 
-2017 – Now
+2017 – 2020(Unfinished)
 
 Universidad Tecnológica Nacional | Mendoza, Argentina
+
+
+## Tecnicatura Superior en Programación
+
+2021 – Now
+
+Teclab – Instituto Técnico Superior
 
 # ☎️ Contact information
 
