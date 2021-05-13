@@ -56,7 +56,7 @@ I worked on fixing common website bugs such as responsive fixes, adding new func
 
 ## 🗣 Languages
 
-### Spanish 🇪🇸-🇦🇷
+### Spanish 🇪🇸 🇦🇷
 
 Native speaker
 
