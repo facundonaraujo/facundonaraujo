@@ -10,6 +10,12 @@ I am open to new full-time offers or any freelance collaboration.
 
 I am constantly looking to acquire new knowledge and skills. Therefore, in the company he looked for a place where I can continue to grow as a developer facing new challenges and fulfilling both my personal objectives and the objectives of the company.
 
+# 💻 My projects
+
+- 📱 [Star Wars App](https://github.com/facundonaraujo/star-wars-app)
+- 📕 [Estoes Challenge](https://github.com/facundonaraujo/estoes)
+- ☕ [Coffe & Cream](https://github.com/facundonaraujo/Coffeeandcream)
+
 ---
 
 # **👩🏻‍💻** Work experience
