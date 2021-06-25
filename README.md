@@ -12,9 +12,13 @@ I am constantly looking to acquire new knowledge and skills. Therefore, in the c
 
 # 💻 My projects
 
+- ☕ [Coffe & Cream](https://github.com/facundonaraujo/Coffeeandcream)
+
+# 💻 Technical work tests
+
 - 📱 [Star Wars App](https://github.com/facundonaraujo/star-wars-app)
 - 📕 [Estoes Challenge](https://github.com/facundonaraujo/estoes)
-- ☕ [Coffe & Cream](https://github.com/facundonaraujo/Coffeeandcream)
+- 📘 [People List](https://github.com/facundonaraujo/people-list)
 
 ---
 
