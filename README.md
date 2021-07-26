@@ -12,7 +12,7 @@ I am constantly looking to acquire new knowledge and skills. Therefore, in the c
 
 # 💻 My projects
 
-- ☕ [Coffe & Cream](https://github.com/facundonaraujo/Coffeeandcream)
+- ☕ [Coffee & Cream](https://github.com/facundonaraujo/Coffeeandcream)
 
 # 💻 Technical work tests
 
