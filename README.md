@@ -24,9 +24,15 @@ I am constantly looking to acquire new knowledge and skills. Therefore, in the c
 
 # **👩🏻‍💻** Work experience
 
+## Front End Developer
+
+Infoxel Media Labs | Jul 2021 - Now
+
+Responsible for developing web applications with Angular.
+
 ## Full-Stack Developer
 
-Grupo Dime Mx | Oct 2020 - Now
+Grupo Dime Mx | Oct 2020 - Jul 2021
 
 Responsible for developing web applications with Angular, Redux, NodeJS and Express.
 
