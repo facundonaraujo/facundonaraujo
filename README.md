@@ -26,7 +26,7 @@ I am constantly looking to acquire new knowledge and skills. Therefore, in the c
 
 ## Front End Developer
 
-Infoxel Media Labs | Jul 2021 - Now
+Seenka | Jul 2021 - Now
 
 Responsible for developing web applications with Angular.
 
