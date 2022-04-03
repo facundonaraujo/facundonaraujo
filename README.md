@@ -30,8 +30,11 @@ I am constantly looking to acquire new knowledge and skills. Therefore, in the c
 Seenka | Jul 2021 - Now
 
 Responsible for designing and developing new features
+
 Responsible for product maintenance
+
 Responsible for ensuring product quality through testing
+
 Angular - Angular Material - SCSS - Jest + Angular Testing Library - Angular Apollo GraphQL - NodeJS + NestJS + GraphQ
 
 ## Full-Stack Developer
