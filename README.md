@@ -53,6 +53,8 @@ Freelance | Jul 2020 - Oct 2020
 
 I worked on fixing common website bugs such as responsive fixes, adding new functionality, layout fixes, etc.
 
+---
+
 # 🛠 Skills
 
 - Angular
@@ -94,6 +96,8 @@ Universidad Tecnológica Nacional | Mendoza, Argentina
 2021 – Now
 
 Teclab – Instituto Técnico Superior
+
+---
 
 # ☎️ Contact information
 
