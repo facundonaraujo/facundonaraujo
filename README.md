@@ -3,13 +3,13 @@
 > Hello!
 My name is Facundo. I am a full stack developer living and working in Mendoza, Argentina.
 
-Since 2019 I work mainly in web development, as a freelance. I currently work as a Front End Developer at Infoxel Media Labs.
+> Since 2019 I work mainly in web development, as a freelance. I currently work as a Front End Developer at Infoxel Media Labs.
 
-My commitment to achieve both personal and group goals allows me to adapt to different teams and projects in a short time without any problem. That also allows me to learn new technologies quickly and easily.
+> My commitment to achieve both personal and group goals allows me to adapt to different teams and projects in a short time without any problem. That also allows me to learn new technologies quickly and easily.
 
-If you have an job offer or a project proposal please contact me at facundoaraujo14@gmail.com.
+> If you have an job offer or a project proposal please contact me at facundoaraujo14@gmail.com.
 
-My main skills: Angular, HTML, CSS/SCSS, JavaScript, Redux, NodeJS, Express, NestJS, Flutter.
+> My main skills: Angular, HTML, CSS/SCSS, JavaScript, Redux, NodeJS, Express, NestJS, Flutter.
 
 # 📜 Objetives
 
@@ -56,19 +56,16 @@ I worked on fixing common website bugs such as responsive fixes, adding new func
 
 # 🛠 Skills
 
-- HTML/CSS/SASS/SCSS
-- JavaScript
-- Bootstrap
-- MongoDB
-- NodeJs
-- Express
-- Git/GitHub
-- Flutter
 - Angular
-- Angular Ionic
+- HTML/CSS/SASS/SCSS
+- JavaScript/Typescript
+- Jest/Angular Testing
+- Angular Apollo GraphQL
 - Redux
-- Agile methodologies
-- Design patterns
+- NodeJS
+- Express
+- NestJS
+- Flutter
 
 ---
 
