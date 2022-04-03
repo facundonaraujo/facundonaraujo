@@ -1,22 +1,35 @@
-# Resume
+<h1 align="center">Hi 👋, I'm Facundo Araujo</h1>
+<h3 align="center">A passionate frontend developer living and working in Mendoza, Argentina.</h3>
 
-> Hello!
-My name is Facundo. I am a full stack developer living and working in Mendoza, Argentina.
-> Since 2019 I work mainly in web development, as a freelance. I currently work as a Front End Developer at Infoxel Media Labs.
-> My commitment to achieve both personal and group goals allows me to adapt to different teams and projects in a short time without any problem. That also allows me to learn new technologies quickly and easily.
-> If you have an job offer or a project proposal please contact me at facundoaraujo14@gmail.com.
-> My main skills: Angular, HTML, CSS/SCSS, JavaScript, Redux, NodeJS, Express, NestJS, Flutter.
+- 🌱 I’m currently learning **React**
 
-# 📜 Objetives
+- 👨‍💻 All of my projects are available at [github.com/facundonaraujo](github.com/facundonaraujo)
 
-I am constantly looking to acquire new knowledge and skills. Therefore, in the company he looked for a place where I can continue to grow as a developer facing new challenges and fulfilling both my personal objectives and the objectives of the company.
+- 💬 Ask me about **Angular**
 
-# 💻 My projects
+- 📫 How to reach me **facundoaraujo14@gmail.com**
+
+- 📄 Know about my experiences [linkedin.com/in/facundonaraujo/](linkedin.com/in/facundonaraujo/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/facundonaraujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="facundonaraujo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/facundonaraujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundonaraujo" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14341579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14341579" height="30" width="40" /></a>
+<a href="https://dribbble.com/facundonaraujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="facundonaraujo" height="30" width="40" /></a>
+<a href="https://www.behance.net/facundonaraujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="facundonaraujo" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=facundonaraujo&show_icons=true&locale=en&layout=compact" alt="facundonaraujo" /></p>
+
+---
+
+# 💻 Projects and challenges
 
 - ☕ [Coffee & Cream](https://github.com/facundonaraujo/Coffeeandcream)
-
-# 💻 Technical work tests
-
 - 📱 [Star Wars App](https://github.com/facundonaraujo/star-wars-app)
 - 📕 [Estoes Challenge](https://github.com/facundonaraujo/estoes)
 - 📘 [People List](https://github.com/facundonaraujo/people-list)
@@ -55,32 +68,6 @@ I worked on fixing common website bugs such as responsive fixes, adding new func
 
 ---
 
-# 🛠 Skills
-
-- Angular
-- HTML/CSS/SASS/SCSS
-- JavaScript/Typescript
-- Jest/Angular Testing
-- Angular Apollo GraphQL
-- Redux
-- NodeJS
-- Express
-- NestJS
-- Flutter
-
----
-
-## 🗣 Languages
-
-### Spanish 🇪🇸 🇦🇷
-
-Native speaker
-
-### English 🇺🇸
-
-intermediate
-
----
 
 # 📚 Education
 
@@ -96,13 +83,3 @@ Universidad Tecnológica Nacional | Mendoza, Argentina
 2021 – Now
 
 Teclab – Instituto Técnico Superior
-
----
-
-# ☎️ Contact information
-
-✉️ [facundoaraujo14@gmail.com](mailto:facundoaraujo14@gmail.com)
-
-🔗 [linkedin.com/in/facundonaraujo](http://linkedin.com/in/facundonaraujo)
-
-📍 Guaymallén, Mendoza, Argentina
