@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [github.com/facundonaraujo](github.com/facundonaraujo)
+- 👨‍💻 All of my projects are available at [github.com/facundonaraujo](https://github.com/facundonaraujo)
 
 - 💬 Ask me about **Angular**
 
 - 📫 How to reach me **facundoaraujo14@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/facundonaraujo/](linkedin.com/in/facundonaraujo/)
+- 📄 Know about my experiences [linkedin.com/in/facundonaraujo/](https://www.linkedin.com/in/facundonaraujo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
