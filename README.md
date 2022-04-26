@@ -33,6 +33,7 @@
 - 📱 [Star Wars App](https://github.com/facundonaraujo/star-wars-app)
 - 📕 [Estoes Challenge](https://github.com/facundonaraujo/estoes)
 - 📘 [People List](https://github.com/facundonaraujo/people-list)
+- 🗒️ [Wally Challenge](https://github.com/facundonaraujo/wally-challenge)
 
 ---
 
