@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo Araujo</h1>
-<h3 align="center">A passionate frontend developer living and working in Mendoza, Argentina.</h3>
+<h3 align="center">A passionate Frontend | Mobile Developer living and working in Mendoza, Argentina.</h3>
 
 - 🌱 I’m currently learning **React**
 
@@ -39,9 +39,13 @@
 
 # **👩🏻‍💻** Work experience
 
-## Front End Developer
+## Frontend | Mobile Developer
 
-Seenka | Jul 2021 - Now
+Churrasco.cc | May 2022 - Now
+
+## Frontend Developer
+
+Seenka | Jul 2021 - May 2022
 
 Responsible for designing and developing new features
 
