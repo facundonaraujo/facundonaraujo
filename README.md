@@ -43,6 +43,18 @@
 
 Churrasco.cc | May 2022 - Now
 
+Project: Wally POS
+- Responsible for the design and development of new functionalities.
+- Responsible for product maintenance.
+
+Vue - Vuetifyjs - SCSS - Nuxtjs - Vuex - Axios
+
+Project: Grou
+- Responsible for the design and development of new functionalities(App and Web).
+- Responsible for product maintenance(App and Web).
+
+Angular - Angular Material - SCSS - NativeScript
+
 ## Frontend Developer
 
 Seenka | Jul 2021 - May 2022
