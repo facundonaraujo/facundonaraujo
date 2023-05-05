@@ -43,8 +43,9 @@
 
 Wally | May 2023 - Now
 
-- Responsible for the design and development of new functionalities.
-- Responsible for product maintenance.
+Responsible for the design and development of new functionalities.
+
+Responsible for product maintenance.
 
 Vue - Vuetifyjs - SCSS - Nuxtjs - Vuex - Axios - Pinia
 
