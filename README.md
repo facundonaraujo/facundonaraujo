@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Facundo Araujo</h1>
 <h3 align="center">A passionate Frontend | Mobile Developer living and working in Mendoza, Argentina.</h3>
 
-- 🌱 I’m currently learning **React, Vue, React Native**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [github.com/facundonaraujo](https://github.com/facundonaraujo)
 
